@@ -16,8 +16,8 @@ $sumaimpar=0;
  echo $sumaimpar . "\n";
 
 
- $i=0;
- $numero=33;
+ $i=1;
+ $numero=31;
  $repetido=3;
  while($i<$numero){
      $i += $repetido ;
